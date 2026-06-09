@@ -1,23 +1,13 @@
-{
+
+  {
   "name": "uday-nodejs-assignment2",
   "version": "1.0.0",
-  "description": "",
   "main": "exercise4.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
-    "start": "node exercise4.js",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
+    "start": "node exercise4.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1",
-    "react-scripts": "^4.18.2"
+    "express": "^4.0.3"
   }
 }
+  
